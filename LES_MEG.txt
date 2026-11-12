@@ -1,0 +1,16 @@
+TV-priser v5.1 - stabil utgave
+
+1. Lukk TV_priser.xlsx hvis den er aapen.
+2. Ta sikkerhetskopi av C:\Program Files\Tv priser\tv_priser.py og prisobservasjoner.csv.
+3. Kopier tv_priser.py fra denne ZIP-filen til C:\Program Files\Tv priser\ og erstatt den gamle.
+4. Kjoer som foer. Ingen ekstra pakker kreves utover dem du allerede har installert.
+
+Endringer:
+- Komplett hoppes over som standard, ettersom nettstedet har gitt HTTP/2-feil og lange timeouts.
+- Elkjop, Power og Elon fortsetter som i v5.
+- Observasjoner lagres etter hver butikk.
+- Viser fremdrift i terminalen og skriver oppstart til loggen.
+- Frivillig Komplett-test: sett miljoevariabel TV_TEST_KOMPLETT=1 foer oppstart. Testen kan fremdeles feile og er ikke anbefalt for daglig planlagt kjoering.
+- Eksisterende CSV- og Excel-data beholdes.
+
+Merk: Koden er syntakskontrollert, men ikke live-testet paa butikknettsidene.
