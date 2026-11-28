@@ -1377,3 +1377,97 @@
 2026-11-27 17:08:20,136 INFO Elon: lagret 19990 kr: TV TCL 75" - 75C8L
 2026-11-27 17:08:20,136 INFO Elon: 12 produktlenker, 11 gyldige priser kontrollert
 2026-11-27 17:08:20,139 INFO Komplett: hoppes over pga. dokumenterte nettverksfeil. Sett TV_TEST_KOMPLETT=1 for test.
+2026-11-28 15:54:26,049 INFO Oppstart TV-priser v5.1. Komplett: hoppes over
+2026-11-28 15:54:27,860 INFO Elkjøp: starter innhenting
+2026-11-28 15:54:28,084 WARNING Elkjøp: kategori HTTP 429: https://www.elkjop.no/tv-lyd-og-smarte-hjem/tv-og-tilbehor/tv/75-98-tommers-tv-er
+2026-11-28 15:54:28,173 WARNING Elkjøp: kategori HTTP 429: https://www.elkjop.no/search?query=75%20tommer%20tv
+2026-11-28 15:54:28,179 INFO Elkjøp: 0 unike produktkandidater
+2026-11-28 15:54:28,179 INFO Elkjøp: 0 produktlenker, 0 gyldige priser kontrollert
+2026-11-28 15:54:28,181 INFO Power: starter innhenting
+2026-11-28 15:54:36,613 INFO Power: kategori https://www.power.no/c/16642/tv-og-lyd/tv/70-115-tv/, HTTP 200, lenker i DOM 276, produktkandidater 11
+2026-11-28 15:54:44,866 INFO Power: kategori https://www.power.no/search/?q=75%20tv, HTTP 200, lenker i DOM 241, produktkandidater 25
+2026-11-28 15:54:44,878 INFO Power: 28 unike produktkandidater
+2026-11-28 15:54:48,771 INFO Power: produkt HTTP 200, pris 11790, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-mini-led-tv-2026-tu75m80hauxxc/p-4266328/
+2026-11-28 15:54:48,793 INFO Power: lagret 11790 kr: Samsung 75" 4K Mini LED TV 2026 - TU75M80HAUXXC
+2026-11-28 15:54:52,303 INFO Power: produkt HTTP 200, pris 19990, URL https://www.power.no/tv-og-lyd/tv/samsung-75-the-frame-pro-4k-neo-qled-tv-2026-tq75ls03hwuxxc/p-4266276/
+2026-11-28 15:54:52,319 INFO Power: lagret 19990 kr: Samsung 75" The Frame Pro - 4K Neo QLED TV 2026 - TQ75LS03HWUXXC
+2026-11-28 15:54:55,818 INFO Power: produkt HTTP 200, pris 12990, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-neo-qled-tv-2026-tq75qn83hbuxna/p-4266302/
+2026-11-28 15:54:55,834 INFO Power: lagret 12990 kr: Samsung 75" 4K Neo QLED TV 2026 - TQ75QN83HBUXNA
+2026-11-28 15:54:59,808 INFO Power: produkt HTTP 200, pris 18990, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-micro-rgb-tv-2026-tmr75r85hauxxc/p-4266251/
+2026-11-28 15:54:59,821 INFO Power: lagret 18990 kr: Samsung 75" 4K Micro RGB TV 2026 - TMR75R85HAUXXC
+2026-11-28 15:55:03,652 INFO Power: produkt HTTP 200, pris 8999, URL https://www.power.no/tv-og-lyd/tv/cepter-75-4k-qled-google-tv-cr75xm6002a-144-hz/p-4235095/
+2026-11-28 15:55:03,670 INFO Power: lagret 8999 kr: Cepter 75" 4K QLED Google TV CR75XM6002A 144 Hz
+2026-11-28 15:55:07,425 INFO Power: produkt HTTP 200, pris 7990, URL https://www.power.no/tv-og-lyd/tv/lg-75-nano-uhd-8e-4k-tv-2026-75nu8e0b3la/p-4317066/
+2026-11-28 15:55:07,441 INFO Power: lagret 7990 kr: LG 75" Nano UHD 8E 4K TV 2026 - 75NU8E0B3LA
+2026-11-28 15:55:11,475 INFO Power: produkt HTTP 200, pris 13990, URL https://www.power.no/tv-og-lyd/tv/lg-75-qned-evo-miniled-93-4k-tv-2026-75qned93b6a/p-4317059/
+2026-11-28 15:55:11,489 INFO Power: lagret 13990 kr: LG 75" QNED evo MiniLED 93 4K TV 2026 - 75QNED93B6A
+2026-11-28 15:55:15,044 INFO Power: produkt HTTP 200, pris 12990, URL https://www.power.no/tv-og-lyd/tv/lg-75-qned-evo-miniled-87-4k-tv-2026-75qned87b6a/p-4318138/
+2026-11-28 15:55:15,059 INFO Power: lagret 12990 kr: LG 75" QNED evo MiniLED 87 4K TV 2026 - 75QNED87B6A
+2026-11-28 15:55:19,012 INFO Power: produkt HTTP 200, pris 8990, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-mini-led-tv-2026-tu75m73hbuxna/p-4266320/
+2026-11-28 15:55:19,026 INFO Power: lagret 8990 kr: Samsung 75" 4K Mini LED TV 2026 - TU75M73HBUXNA
+2026-11-28 15:55:22,470 INFO Power: produkt HTTP 200, pris 10490, URL https://www.power.no/tv-og-lyd/tv/lg-75-qned-evo-miniled-82-4k-tv-2026-75qned82b6a/p-4238536/
+2026-11-28 15:55:22,485 INFO Power: lagret 10490 kr: LG 75" QNED evo MiniLED 82 4K TV 2026 - 75QNED82B6A
+2026-11-28 15:55:26,090 INFO Power: produkt HTTP 200, pris IKKE FUNNET, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-micro-rgb-tv-2026-tmr75r95hatxxc/p-4266242/
+2026-11-28 15:55:29,668 INFO Power: produkt HTTP 200, pris 7790, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-led-tv-2026-tu75u7005huxna/p-4266341/
+2026-11-28 15:55:29,681 INFO Power: lagret 7790 kr: Samsung 75" 4K LED TV 2026 - TU75U7005HUXNA
+2026-11-28 15:55:33,036 INFO Power: produkt HTTP 200, pris 12999, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-led-tv-2026-tu75u8075huxna/p-4266349/
+2026-11-28 15:55:33,049 INFO Power: lagret 12999 kr: Samsung 75" 4K LED TV 2026 - TU75U8075HUXNA
+2026-11-28 15:55:36,487 INFO Power: produkt HTTP 200, pris 17999, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-neo-qled-tv-2026-tq75qn73hbuxna/p-4266296/
+2026-11-28 15:55:36,501 INFO Power: lagret 17999 kr: Samsung 75" 4K Neo QLED TV 2026 - TQ75QN73HBUXNA
+2026-11-28 15:55:39,966 INFO Power: produkt HTTP 200, pris 12998, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-mini-led-tv-2026-tu75m83hbuxna/p-4266332/
+2026-11-28 15:55:39,978 INFO Power: lagret 12998 kr: Samsung 75" 4K Mini LED TV 2026 - TU75M83HBUXNA
+2026-11-28 15:55:43,261 INFO Power: produkt HTTP 200, pris 10999, URL https://www.power.no/tv-og-lyd/tv/cepter-75-4k-uhd-google-tv-cr75eu7002a/p-3131184/
+2026-11-28 15:55:43,271 INFO Power: lagret 10999 kr: Cepter 75" 4K UHD Google TV CR75EU7002A
+2026-11-28 15:55:47,140 INFO Power: produkt HTTP 200, pris 12998, URL https://www.power.no/tv-og-lyd/tv/lg-75-qned-evo-miniled-83-4k-tv-2026-75qned83b6a/p-4238532/
+2026-11-28 15:55:47,152 INFO Power: lagret 12998 kr: LG 75" QNED evo MiniLED 83 4K TV 2026 - 75QNED83B6A
+2026-11-28 15:55:51,088 INFO Power: produkt HTTP 200, pris 19998, URL https://www.power.no/tv-og-lyd/tv/lg-75-mini-rgb-87-4k-tv-2026-75mrgb87b6b/p-4238526/
+2026-11-28 15:55:51,100 INFO Power: lagret 19998 kr: LG 75" Mini RGB 87 4K TV 2026 - 75MRGB87B6B
+2026-11-28 15:55:55,035 INFO Power: produkt HTTP 200, pris 9991, URL https://www.power.no/tv-og-lyd/tv/lg-75-4k-nanocell-tv-75nano8ea6a/p-4126348/
+2026-11-28 15:55:55,048 INFO Power: lagret 9991 kr: LG 75" 4K NANOCELL TV 75NANO8EA6A
+2026-11-28 15:55:58,465 INFO Power: produkt HTTP 200, pris 17990, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-neo-qled-tv-2026-tq75qn72hbuxna/p-4266288/
+2026-11-28 15:55:58,478 INFO Power: lagret 17990 kr: Samsung 75" 4K Neo QLED TV 2026 - TQ75QN72HBUXNA
+2026-11-28 15:56:02,392 INFO Power: produkt HTTP 200, pris 19998, URL https://www.power.no/tv-og-lyd/tv/cepter-75-4k-qled-pro-miniled-google-tv-cr75zm1500a/p-4259485/
+2026-11-28 15:56:02,404 INFO Power: lagret 19998 kr: Cepter 75" 4K QLED Pro MiniLED Google TV CR75ZM1500A
+2026-11-28 15:56:09,118 INFO Power: produkt HTTP 200, pris 14999, URL https://www.power.no/tv-og-lyd/tv/lg-75-qned-evo-miniled-81-4k-tv-2026-75qned81b6a/p-4239845/
+2026-11-28 15:56:09,132 INFO Power: lagret 14999 kr: LG 75" QNED evo MiniLED 81 4K TV 2026 - 75QNED81B6A
+2026-11-28 15:56:12,565 INFO Power: produkt HTTP 200, pris 13990, URL https://www.power.no/tv-og-lyd/tv/samsung-75-4k-mini-led-tv-2026-tu75m72hbuxna/p-4266311/
+2026-11-28 15:56:12,581 INFO Power: lagret 13990 kr: Samsung 75" 4K Mini LED TV 2026 - TU75M72HBUXNA
+2026-11-28 15:56:16,478 INFO Power: produkt HTTP 200, pris 14999, URL https://www.power.no/tv-og-lyd/tv/samsung-75-u8075f-uhd-4k-smart-tv-2025/p-4020044/
+2026-11-28 15:56:16,495 INFO Power: lagret 14999 kr: Samsung 75" U8075F UHD 4K Smart TV (2025)
+2026-11-28 15:56:20,021 INFO Power: produkt HTTP 200, pris IKKE FUNNET, URL https://www.power.no/tv-og-lyd/tv/samsung-75-the-frame-pro-ls03fw-neo-qled-4k-edge-mini-led-smart-tv-2025/p-4020023/
+2026-11-28 15:56:23,298 INFO Power: produkt HTTP 200, pris 10491, URL https://www.power.no/tv-og-lyd/tv/samsung-75-q7f4-qled-4k-smart-tv-2025/p-4020024/
+2026-11-28 15:56:23,315 INFO Power: lagret 10491 kr: Samsung 75" Q7F4 QLED 4K Smart TV (2025)
+2026-11-28 15:56:26,754 INFO Power: produkt HTTP 200, pris 12491, URL https://www.power.no/tv-og-lyd/tv/samsung-75-q7f5-qled-4k-smart-tv-2025/p-4020025/
+2026-11-28 15:56:26,766 INFO Power: lagret 12491 kr: Samsung 75" Q7F5 QLED 4K Smart TV (2025)
+2026-11-28 15:56:30,623 INFO Power: produkt HTTP 200, pris 14991, URL https://www.power.no/tv-og-lyd/tv/hisense-75-4k-ultra-hd-qled-tv-75e7nq-pro/p-3447929/
+2026-11-28 15:56:30,638 INFO Power: lagret 14991 kr: Hisense 75" 4K Ultra HD QLED TV 75E7NQ Pro
+2026-11-28 15:56:30,638 INFO Power: 28 produktlenker, 26 gyldige priser kontrollert
+2026-11-28 15:56:30,641 INFO Elon: starter innhenting
+2026-11-28 15:56:39,940 INFO Elon: kategori https://www.elon.no/tv-lyd/tv, HTTP 200, lenker i DOM 173, produktkandidater 5
+2026-11-28 15:56:49,245 INFO Elon: kategori https://www.elon.no/kampanjer/black-week/lyd-bilde/tv, HTTP 200, lenker i DOM 194, produktkandidater 5
+2026-11-28 15:56:49,254 INFO Elon: 12 unike produktkandidater
+2026-11-28 15:56:54,040 INFO Elon: produkt HTTP 200, pris 13990, URL https://www.elon.no/samsung-75-tu75m72hbuxna-154668
+2026-11-28 15:56:54,047 INFO Elon: lagret 13990 kr: TV Samsung 75" - TU75M72HBUXNA
+2026-11-28 15:56:58,444 INFO Elon: produkt HTTP 200, pris 8990, URL https://www.elon.no/lg-75-75qned7eb3a-154401
+2026-11-28 15:56:58,449 INFO Elon: lagret 8990 kr: TV LG 75" - 75QNED7EB3A
+2026-11-28 15:57:03,014 INFO Elon: produkt HTTP 200, pris 10490, URL https://www.elon.no/lg-75-75qned82b6a-153038
+2026-11-28 15:57:03,020 INFO Elon: lagret 10490 kr: TV LG 75" - 75QNED82B6A
+2026-11-28 15:57:07,684 INFO Elon: produkt HTTP 200, pris 19990, URL https://www.elon.no/samsung-75-the-frame-pro-tq75ls03hwuxxc-154695
+2026-11-28 15:57:07,690 INFO Elon: lagret 19990 kr: TV Samsung 75" - The Frame Pro TQ75LS03HWUXXC
+2026-11-28 15:57:12,308 INFO Elon: produkt HTTP 200, pris 12990, URL https://www.elon.no/tcl-75-75c6k-149434
+2026-11-28 15:57:12,314 INFO Elon: lagret 12990 kr: TV TCL 75" - 75C6K
+2026-11-28 15:57:15,674 INFO Elon: produkt HTTP 200, pris 11790, URL https://www.elon.no/samsung-75-tu75m80hauxxc-154672
+2026-11-28 15:57:15,681 INFO Elon: lagret 11790 kr: TV Samsung 75" - TU75M80HAUXXC
+2026-11-28 15:57:20,229 INFO Elon: produkt HTTP 200, pris IKKE FUNNET, URL https://www.elon.no/lg-75-75ua75006la-150002
+2026-11-28 15:57:25,028 INFO Elon: produkt HTTP 200, pris 15990, URL https://www.elon.no/lg-75-75mrgb88b6b-153348
+2026-11-28 15:57:25,036 INFO Elon: lagret 15990 kr: TV LG 75" - 75MRGB88B6B
+2026-11-28 15:57:28,473 INFO Elon: produkt HTTP 200, pris 10990, URL https://www.elon.no/tcl-75-75p8l-154334
+2026-11-28 15:57:28,478 INFO Elon: lagret 10990 kr: TV TCL 75" - 75P8L
+2026-11-28 15:57:32,862 INFO Elon: produkt HTTP 200, pris 18990, URL https://www.elon.no/samsung-75-tmr75r85hauxxc-154682
+2026-11-28 15:57:32,876 INFO Elon: lagret 18990 kr: TV Samsung 75" - TMR75R85HAUXXC
+2026-11-28 15:57:37,342 INFO Elon: produkt HTTP 200, pris 7990, URL https://www.elon.no/philips-75-75pus7001-12-154992
+2026-11-28 15:57:37,349 INFO Elon: lagret 7990 kr: TV Philips 75" - 75PUS7001/12
+2026-11-28 15:57:40,716 INFO Elon: produkt HTTP 200, pris 19990, URL https://www.elon.no/tcl-75-75c8l-154318
+2026-11-28 15:57:40,724 INFO Elon: lagret 19990 kr: TV TCL 75" - 75C8L
+2026-11-28 15:57:40,724 INFO Elon: 12 produktlenker, 11 gyldige priser kontrollert
+2026-11-28 15:57:40,727 INFO Komplett: hoppes over pga. dokumenterte nettverksfeil. Sett TV_TEST_KOMPLETT=1 for test.
